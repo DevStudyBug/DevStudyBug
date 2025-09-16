@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-😄 Hi , I'm DevStudyBug<br>🌱I'm currently learning Backend<br>⚡I'm a frontend enthusiast and UI/UX designer<br>💬 Ask me about JAVA , Advanced Java, SpringBoot, Security ,Python,JavaScript, RestAPI
+😄 Hi , I'm Anshika<br>🌱I'm currently learning Backend<br>⚡I'm a frontend enthusiast and UI/UX designer<br>💬 Ask me about JAVA , Advanced Java, SpringBoot, Security ,Python,JavaScript, RestAPI
 
 
 ## 🌐 Socials:
