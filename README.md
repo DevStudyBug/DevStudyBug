@@ -1,6 +1,15 @@
 
 # 💫 About Me:
-😄 Hi , I'm Anshika<br>🌱I'm currently learning Backend<br>⚡I'm a frontend enthusiast and UI/UX designer<br>💬 Ask me about JAVA , Advanced Java, SpringBoot, Security ,Python,JavaScript, RestAPI
+
+😄 Hi, I'm **Anshika**!  
+💻 I'm a **Full Stack Java Developer** — recently completed my training!  
+🌱 Currently learning **Ionic** and exploring app development  
+⚙️ Skilled in **Microservices Architecture**, **TypeScript**, and **Angular**  
+⚡ I love building clean, functional, and user-friendly projects  
+💬 Ask me about **Java**, **Advanced Java**, **Spring Boot**, **Spring Security**, **Microservices**, **Python**, **JavaScript**, **TypeScript**, **Angular**, **Ionic**, and **REST APIs**  
+🚀 Always learning, improving, and experimenting with new tools and frameworks  
+✨ *"Code. Create. Learn. Repeat."*
+
 
 
 ## 🌐 Socials:
